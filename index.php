@@ -274,7 +274,7 @@ color: #393838;
     </ul>
   </nav>
   <section class="sec1">
-    <div class="title"><h1>Xvcall</h1><br><span>vash</span><br><small>Project by Aman Vashishth</small></div>
+    <div class="title"><h1>Xvcall</h1><br><span>vash</span><br><br><br><small>Project by Aman Vashishth</small></div>
   </section>
   
   
